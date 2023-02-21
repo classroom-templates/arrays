@@ -16,9 +16,9 @@ int main(int argc, char** argv) {
      * DELETE ALL THESE COMMENTS WHEN YOU ARE DONE.
      */
 
-    /* STEP 1: check your arguments, make sure you have exactly 2 using
-     * argc, and make sure the second argument is a string with only
-     * digit characters that represents a positive (above 0) number.
+    /* STEP 1: check your arguments, using argc, make sure you have
+     * exactly 2, and make sure the second argument is a string with
+     * only digit characters that represents a positive (above 0) number.
      * use your function is_positive_integer() to do this. display
      * an error message as shown in the examples if the parameters
      * are not correct.
